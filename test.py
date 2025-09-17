@@ -1,1 +1,1 @@
-printf("vijay"):
+print("vijay")
